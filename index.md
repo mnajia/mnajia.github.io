@@ -1,10 +1,10 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+title: About Me
+description: "Mohamad Ali Najia's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: homebanner.gif
 ---
 
 I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a>.
