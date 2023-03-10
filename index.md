@@ -21,4 +21,4 @@ I am a mathematician, engineer, and PhD in computer vision by <a href="http://ww
 <br /><br /><br /><br /><br /><br /><br />
 <b><em>About the Cover Image</em></b>
 <br />
-<em>Induced pluripotent stem cells were engineered to express a protein fused to GFP and co-stained for DAPI. The fusion protein primarily localizes to the nucleus of cells.</em>
+<em>Induced pluripotent stem cells were engineered to express a protein fused to GFP and stained with DAPI. The fusion protein primarily localizes to the nucleus of cells.</em>
