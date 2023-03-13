@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /research/
-title: My Research
-tags: [research]
+permalink: /talks/
+title: My Presentations
+tags: [talks]
 comments: false
 image:
   feature: researchbanner.jpg
