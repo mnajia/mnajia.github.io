@@ -1,9 +1,9 @@
-# Mohamad Ali Najia's site
+# Mohamad Ali Najia's Website
 
-My personal website
+My personal academic website
 
 
 ## License
 
-Feel free to adapt this theme to your site without linking back to me or including a disclaimer, although letting me know would be nice. ;) 
+Feel free to adapt this theme to your website without linking back to me or including a disclaimer, although letting me know would be nice. ;) 
 
