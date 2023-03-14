@@ -4,8 +4,6 @@ permalink: /projects/
 title: Projects Outside the Lab
 tags: [projects]
 comments: false
-image:
-  feature: researchbanner.jpg
 ---
 
 
