@@ -23,10 +23,10 @@ image:
 * Live-cell transcriptomics via virus-like particles<br>
 <i>NIH Single Cell Analysis Program Meeting</i>, Bethesda, MD (June 2017).
 
-* Sanviato: A mobile platform for anticoagulation monitoring in low-resource settings.<br>
+* Sanviato: A mobile platform for anticoagulation monitoring in low-resource settings<br>
 <i>Bay Area Global Health Innovation Challenge</i>, Berkeley, CA (May 2017).
 
-* Sanviato: A mobile platform for anticoagulation monitoring in low-resource settings.<br>
+* Sanviato: A mobile platform for anticoagulation monitoring in low-resource settings<br>
 <i>Bay Area Global Health Innovation Challenge</i>, Berkeley, CA (May 2017).
 
 ### Invited Seminars

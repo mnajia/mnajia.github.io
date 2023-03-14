@@ -9,7 +9,8 @@ image:
 ---
 
 
-It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
+<img src="{{ site.url }}/images/research_overview.png" align="left" style="margin: 0px 10px 10px 0px;" /><p>Your text goes here.</p>
+
 
 ### Transposable elements
 
