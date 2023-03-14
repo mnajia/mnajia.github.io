@@ -9,6 +9,31 @@ image:
 ---
 
 
+<!-- Item: Jing2022 -->
+<li ><p>
+Ran Jing, Irene Scarfo, <b>Mohamad Ali Najia</b>, Edroaldo Lummertz da Rocha, Areum Han, Michael Sanborn, Trevor Bingham, Caroline Kubaczka, Deepak K. Jha, Marcelo Falchetti, Thorsten M. Schlaeger, Trista E. North, Marcela V. Maus and George Q. Daley
+<br><b>EZH1 repression generates mature iPSC-derived CAR T cells with enhanced antitumor activity</b><br>
+<i>Cell Stem Cell</i>, vol. 29, pp. 1181-1196.e6, August 2022.
+<br />
+<a href="javascript:toggleBibtex('Jing2022')">[BibTeX]</a>
+<a href="https://www.cell.com/cell-stem-cell/pdf/S1934-5909(22)00295-8.pdf" target="_blank">[PDF]</a> <a href="https://pubmed.ncbi.nlm.nih.gov/35931029/"  target="_blank">[PubMed]</a>
+<br><img src="{{ site.url }}/images/Jing2022_CellStemCell_Cover.jpg" alt="Jing2022_CellStemCell_Cover"></br>
+</p>
+<div id="bib_Jing2022" class="bibtex noshow">
+<pre>
+@article{Jing2022,
+  author = {Jing, Ran and Scarfo, Irene and Najia, Mohamad Ali and Lummertz da Rocha, Edroaldo and Han, Areum and Sanborn, Michael and Bingham, Trevor and Kubaczka, Caroline and Jha, Deepak K. and Falchetti, Marcelo and Schlaeger, Thorsten M. and North, Trista E. and Maus, Marcela V. and Daley, George Q.},
+  title = {EZH1 repression generates mature iPSC-derived CAR T cells with enhanced antitumor activity.},
+  journal = {Cell Stem Cell},
+  year = {2022},
+  volume = {29},
+  pages = {1181-1196.e6},
+  doi = {https://doi.org/10.1016/j.stem.2022.06.014}
+}
+</pre>
+</div>
+</li>
+
 It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
 
 ### Transposable elements
