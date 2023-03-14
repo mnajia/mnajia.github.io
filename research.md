@@ -9,7 +9,10 @@ image:
 ---
 
 
-<img src="{{ site.url }}/images/research_overview.png" align="left" style="margin: 0px 10px 10px 0px;" /><p>Your text goes here.</p>
+<img src="{{ site.url }}/images/research_overview.png" align="left" style="margin: 0px 10px 10px 0px;" /> The temporal regulation of gene expression by transcription factors, chromatin modifiers and <i>cis</i>-regulatory elements is central to establish cellular identity and function. Understanding this regulatory logic is critical for deriving select cell types <i>in vitro</i> for translational applications. The human hematopoietic system has long been a model system and an important source for adoptive cell therapies, yet, our understanding of the regulatory mechanisms that elicit commitment toward distinct hematopoietic lineages is continuously evolving. 
+
+In my PhD research, I studied multiple layers of gene regulation that underly dynamic cellular processes, and sought to modulate these processes to direct differentiation to cell types of interest. My research spanned building new technologies and basic science inquiry, as well as multiple fields, including hematopoiesis, synthetic biology, bioinformatics, and chromatin biology.  
+
 
 
 ### Transposable elements
