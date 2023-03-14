@@ -12,7 +12,7 @@ image:
 ### Conference Talks
 
 *  Transposable element regulation of hematopoietic lineage decisions<br>
-<i>Gene Regulation Keystone Meeting</i>, Santa Fe (June 2022).
+<i>Gene Regulation Keystone Meeting</i>, Santa Fe, NM (June 2022).
 
 * Chromatin accessibility dynamics of endothelial-to-hematopoietic transition<br>
 <i>NIH Progenitor Cell Transitional Consortium Annual Meeting</i>, Boston, MA (September 2019).
@@ -48,13 +48,13 @@ image:
 <i>12th Annual International Summer School on Biocomplexity & Biodesign</i>, Istanbul, Turkey (June 2013).
 
 * Stem Cell Engineering for Therapeutic and Diagnostic Applications<br>
-<i>The Triple Helix 9th Annual International Conference</i>, Boston, MA, (February 2013).
+<i>The Triple Helix 9th Annual International Conference</i>, Boston, MA (February 2013).
 
 * Hypoxic Conditioning and Alginate Microencapsulation Modulate Stem Cell Phenotype and Factor Secretion<br>
 <i>Biomedical Engineering Society Annual Meeting</i>, Atlanta, GA (October 2012).
 
 * Influencing Encapsulated Stem Cell Factor Secretion Through Hypoxic Conditioning<br>
-<i>Society of Engineering Science 49th Technical Meeting</i>, Atlanta, GA, (October 2012).
+<i>Society of Engineering Science 49th Technical Meeting</i>, Atlanta, GA (October 2012).
 
 
 ### Invited Seminars
@@ -81,10 +81,10 @@ image:
 ### Posters
 
 * <b>Mohamad Ali Najia</b>, Deepak Jha, Cheng Zhang, Alaa Ali, Arianna Markel, Hu Li, Rizwan Romee, Paul Blainey, George Daley<br>
-<b>Transposable element regulation of hematopoietic lineage decisions.</b> <i>Gene Regulation Keystone Meeting</i>, Santa Fe (June 2022).
+<b>Transposable element regulation of hematopoietic lineage decisions.</b> <i>Gene Regulation Keystone Meeting</i>, Santa Fe, NM (June 2022).
 
 * <b>Mohamad Ali Najia</b>, Deepak Jha, Cheng Zhang, Alaa Ali, Arianna Markel, Hu Li, Rizwan Romee, Paul Blainey, George Daley<br>
-<b>Transposable element regulation of hematopoietic lineage decisions.</b> <i>International Society of Stem Cell Research Annual Meeting 2022</i>, San Francisco (June 2022).
+<b>Transposable element regulation of hematopoietic lineage decisions.</b> <i>International Society of Stem Cell Research Annual Meeting 2022</i>, San Francisco, CA (June 2022).
 
 * <b>Mohamad Ali Najia</b>, Caroline Kubaczka, Ran Jing, Deepak Jha, Paul Blainey, George Daley<br>
 <b>Epigenetic modulation enhances lymphoid fates from induced pluripotent stem cells.</b> <i>International Society of Experimental Hematology</i>, Virtual conference (August 2020).
