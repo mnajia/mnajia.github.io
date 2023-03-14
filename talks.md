@@ -5,7 +5,7 @@ title: My Presentations
 tags: [talks]
 comments: false
 image:
-  feature: researchbanner.jpg
+  feature: talksbanner.jpg
 ---
 
 
@@ -14,15 +14,21 @@ image:
 *  Transposable element regulation of hematopoietic lineage decisions<br>
 <i>Gene Regulation Keystone Meeting</i>, Santa Fe (June 2022).
 
-* [**Multiscale Combinatorial Grouping**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
-Method for producing segmented object proposals, state of the art pre deep learning. Given an image, it computes around 5000 proposals of segmented objects in less than 30 seconds on a single thread. From our CVPR 2014 and TPAMI 2016 papers.
+* Chromatin accessibility dynamics of endothelial-to-hematopoietic transition<br>
+<i>NIH Progenitor Cell Transitional Consortium Annual Meeting</i>, Boston, MA (September 2019).
 
-* [**SEISM: Supervised Evaluation of Image Segmentation Methods**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
-Toolbox to benchmark image segmentation methods, including our newly-proposed objects and parts measure. From our PAMI 2015 and CVPR 2013 papers.
+* Mobile anticoagulation monitoring technologies for low-resource settings<br>
+<i>MIT Global Startup Workshop</i>, Bangkok, Thailand (March 2018).
 
-* [**Supervised Assessment of Segmentation Hierarchies**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
-Toolbox to find the best cuts in a hierarchy of regions using combinatorial optimization and solved by CPLEX. From our ECCV 2012 paper.
- 
+* Live-cell transcriptomics via virus-like particles<br>
+<i>NIH Single Cell Analysis Program Meeting</i>, Bethesda, MD (June 2017).
+
+* Sanviato: A mobile platform for anticoagulation monitoring in low-resource settings.<br>
+<i>Bay Area Global Health Innovation Challenge</i>, Berkeley, CA (May 2017).
+
+* Sanviato: A mobile platform for anticoagulation monitoring in low-resource settings.<br>
+<i>Bay Area Global Health Innovation Challenge</i>, Berkeley, CA (May 2017).
+
 ### Invited Seminars
 
 * [**Solving Sudokus like a Pro**](http://jponttuset.github.io/solving-sudokus-like-a-pro-1/)<br>
