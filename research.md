@@ -42,3 +42,7 @@ Webpage to showcase the results of our publication. It involved a decent amount 
 Webpage to showcase the benchmark results of DAVIS and browse results. Again: JavaScript, D3.js, PHP, and MySQL.
 
 
+<br />
+<b><em>About the Cover Image</em></b>
+<br />
+<em>Induced pluripotent stem cells were engineered to express a protein fused to GFP and stained with DAPI. The fusion protein primarily localizes to the nucleus of cells.</em>
