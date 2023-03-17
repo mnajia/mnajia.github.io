@@ -9,6 +9,34 @@ image:
 ---
 
 
+<html>
+<head>
+<style>
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<figure>
+  <img src="{{ site.url }}/images/research_overview.png" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy</figcaption>
+</figure>
+
+</body>
+</html>
+
 It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
 
 ### Transposable elements
