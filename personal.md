@@ -33,7 +33,7 @@ figcaption {
 <h2>Notable Adventures</h2>
 
 <figure>
-  <img src="{{ site.url }}/images/research_overview.png" alt="Fuji" style="width:100%">
+  <img src="{{ site.url }}/images/IMG_3386.JPG" alt="Fuji" style="width:100%">
   <figcaption>I summited Mount. Fuji in Japan and experienced the once-in-a-lifetime opportunity to witness the sunrise atop the mountain</figcaption>
 </figure>
 
