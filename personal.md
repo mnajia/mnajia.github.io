@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /personal/
-title: Interests Outside the Lab
+title: My Hobbies and Notable Experiences
 tags: [personal]
 comments: false
 image:
@@ -19,8 +19,8 @@ figure {
 }
 
 figcaption {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   font-style: italic;
   padding: 2px;
   text-align: center;
@@ -29,9 +29,12 @@ figcaption {
 </head>
 <body>
 
+
+### Notable Adventures
+
 <figure>
-  <img src="{{ site.url }}/images/research_overview.png" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy</figcaption>
+  <img src="{{ site.url }}/images/research_overview.png" alt="Fuji" style="width:100%">
+  <figcaption>I summited Mount. Fuji in Japan and had the once-in-a-timetime opportunity to witness the sunrise atop the mountain</figcaption>
 </figure>
 
 </body>
