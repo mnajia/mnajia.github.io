@@ -35,13 +35,6 @@ figcaption {
   <figcaption>I summited Mount. Fuji in Japan and experienced the once-in-a-lifetime opportunity to witness the sunrise atop the mountain</figcaption>
 </figure>
 
-<h2>Sailing</h2>
-
-<figure>
-  <img src="{{ site.url }}/images/IMG_5721.JPG" alt="sailing" style="width:100%">
-  <figcaption>I enjoy sailing, especially on the Charles River</figcaption>
-</figure>
-
 <h2>Woodworking Projects</h2>
 
 <figure>
@@ -141,6 +134,14 @@ figcaption {
   <img src="{{ site.url }}/images/cooking/IMG_0485.jpg" alt="biscotti" style="width:100%">
   <figcaption>Chocolate biscotti</figcaption>
 </figure>
+
+<h2>Sailing</h2>
+
+<figure>
+  <img src="{{ site.url }}/images/IMG_5721.JPG" alt="sailing" style="width:100%">
+  <figcaption>I enjoy sailing, especially on the Charles River</figcaption>
+</figure>
+
 
 
 </body>
