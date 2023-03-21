@@ -39,7 +39,7 @@ figcaption {
 
 <figure>
   <img src="{{ site.url }}/images/IMG_5721.JPG" alt="sailing" style="width:100%">
-  <figcaption>Sailing an MIT Tech Dinghy on the Charles River</figcaption>
+  <figcaption>I enjoy sailing, especially on the Charles River</figcaption>
 </figure>
 
 <h2>Woodworking Projects</h2>
