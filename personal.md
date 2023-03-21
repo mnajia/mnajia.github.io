@@ -4,8 +4,6 @@ permalink: /personal/
 title: My Hobbies and Notable Experiences
 tags: [personal]
 comments: false
-image:
-  feature: boston.jpg
 ---
 
 
