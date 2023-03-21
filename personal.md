@@ -133,8 +133,7 @@ figcaption {
 <br>
 
 <figure>
-  <img src="{{ site.url }}/images/cooking/IMG_0421.jpg" alt="croissant1" style="width:50%">
-  <img src="{{ site.url }}/images/cooking/IMG_0424.jpg" alt="croissant2" style="width:50%">
+  <img src="{{ site.url }}/images/cooking/IMG_0421.jpg" alt="croissant1" style="width:50%"><img src="{{ site.url }}/images/cooking/IMG_0424.jpg" alt="croissant2" style="width:50%">
   <figcaption>Classic French croissants</figcaption>
 </figure>
 
