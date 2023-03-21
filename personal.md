@@ -75,8 +75,7 @@ figcaption {
 <h2>Cooking</h2>
 
 <figure>
-  <img src="{{ site.url }}/images/cooking/IMG_7940.jpg" alt="ciabatta1" style="width:50%">
-  <img src="{{ site.url }}/images/cooking/IMG_8005.jpg" alt="ciabatta2" style="width:50%">
+  <img src="{{ site.url }}/images/cooking/IMG_7940.jpg" alt="ciabatta1" style="width:50%"><img src="{{ site.url }}/images/cooking/IMG_8005.jpg" alt="ciabatta2" style="width:50%">
   <figcaption>Ciabatta bread (80% hydration dough)</figcaption>
 </figure>
 
@@ -97,8 +96,7 @@ figcaption {
 <br>
 
 <figure>
-  <img src="{{ site.url }}/images/cooking/IMG_8870.jpg" alt="cappelletti1" style="width:50%">
-  <img src="{{ site.url }}/images/cooking/IMG_8902.jpg" alt="cappelletti2" style="width:50%">
+  <img src="{{ site.url }}/images/cooking/IMG_8870.jpg" alt="cappelletti1" style="width:50%"><img src="{{ site.url }}/images/cooking/IMG_8902.jpg" alt="cappelletti2" style="width:50%">
   <figcaption>Cappelletti filled with chicken and ricotta</figcaption>
 </figure>
 
