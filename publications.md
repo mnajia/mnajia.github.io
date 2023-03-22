@@ -1,7 +1,7 @@
 ---
 layout: publications
 permalink: /publications/
-title: My Publications
+title: Publications & Patents
 tags: [publications]
 comments: false
 image:

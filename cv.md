@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: My CV
+title: Curriculum Vitae
 tags: [cv]
 comments: false
 ---
