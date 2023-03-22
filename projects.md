@@ -21,3 +21,29 @@ Anticoagulation therapy is essential for the prevention of fatal blood clots, es
 
 <img src="{{ site.url }}/images/clamp.jpg" align="left" style="margin: 0px 10px 10px 0px;" style="width:60%"/>We invented a patented surgical device to safely restore vision in patients with ptosis, while measurably reducing the time and skill needed by the surgeon to perform the surgery; mitigating patient risk; and decreasing surgical revision rates. Our design consists of a clamp that excises the excess muscle that causes the drooping eyelid while simultaneously sealing the incision. Such technology mitigates the root cause of surgical complications. 
 
+
+### Computing for engineers
+
+As an undergrad at Georgia Tech, I was a teaching assistant for an introductory computer science course tailored toward engineering students. The course covered computing algorithms, data structures, data processing and computing theory in a MATLAB computing environment. My lecture slides that I've refined over six semesters of teaching the course are freely available below: 
+
+* [**Functions**](https://docs.google.com/presentation/d/1NcC16p7T16Ll3wIv8nKeTjQh2F8wRZ8CIU6Jc_XcBU8/edit?usp=share_link)
+* [**Vectors**](https://docs.google.com/presentation/d/1fwxap_aYjYPej6MfVX9TekLh-cq-SyVXdLSIyvHE5s4/edit?usp=share_link)
+* [**Arrays**](https://docs.google.com/presentation/d/1Z_NWKRj9UschlXlSzaM0x7hHhkIDoGyE2YX5KHheG8A/edit?usp=share_link)
+* [**Matrices**](https://docs.google.com/presentation/d/1kXUVtFq2EihgVRgkbe4e-ej27FG5ZvZw8jMQ4vXquS4/edit?usp=share_link)
+* [**Vectors & Arrays Review**](https://docs.google.com/presentation/d/1vOPV5JytSOWRZyL4M3Kvd188YVBF8JF72UW_bEQgZXs/edit?usp=share_link)
+* [**Strings**](https://docs.google.com/presentation/d/1CC2WzlrI8tXO8aciIwBvbYnwxyhYyMTJoIM31e6aPjo/edit?usp=share_link)
+* [**Conditional Statements**](https://docs.google.com/presentation/d/1zSydblDlqfhu5aaseJuPdW5E6GIZdNGLaVimesZHrdw/edit?usp=share_link)
+* [**Iteration**](https://docs.google.com/presentation/d/1RrqthtNIvqVLS3kh2IMXx9syOlXzRF-8ZZpO_aKi_A8/edit?usp=share_link)
+* [**Cell Arrays**](https://docs.google.com/presentation/d/1TcI7iso09ZSwGCs9ICeQq6gHhRZtQh0QqWw-ldjDv7g/edit?usp=share_link)
+* [**File I/O**](https://docs.google.com/presentation/d/14JO4UhFkM8qWDgfAbhBWaYchkd8uJ_D4li5mS7mPkoM/edit?usp=share_link)
+* [**Structure Arrays**](https://docs.google.com/presentation/d/1vGGXwMxF9EbZw-btJgNVPCAQxMczgCiwfRpA80XEaZw/edit?usp=share_link)
+* [**Recursion**](https://docs.google.com/presentation/d/1sWUj4NtiWDMitohxUEE7cqFnvY3i61IjlNidfI6jnE4/edit?usp=share_link)
+* [**Numerical Methods**](https://docs.google.com/presentation/d/1DOm2zZ1OlF3KUeJWmI-ZElR48e_1tm4c2J0Gsx-0Edk/edit?usp=share_link)
+* [**Images**](https://docs.google.com/presentation/d/1sniHPazH4wlgFUu7bUVk9t04QGeLm5qd1vxM2sM18WI/edit?usp=share_link)
+* [**Sound Processing**](https://docs.google.com/presentation/d/1lv1zDhfb7W3iAWLfMLa_Z2hFFC0bFSph8o49D5BoBkY/edit?usp=share_link)
+* [**Graph Theory & Sorting**](https://docs.google.com/presentation/d/1xRQ3FP-Emb3ZZoAaUXNMFZNf1ilP7VEZKL7RFJ8o9jI/edit?usp=share_link)
+
+
+
+
+
