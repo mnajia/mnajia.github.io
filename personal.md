@@ -35,6 +35,16 @@ figcaption {
   <figcaption>I summited Mount. Fuji in Japan and experienced the once-in-a-lifetime opportunity to witness the sunrise atop the mountain</figcaption>
 </figure>
 
+<figure>
+  <img src="{{ site.url }}/images/IMG_2790.JPG" alt="giza" style="width:100%">
+  <figcaption>Camel riding by the Great Pyramid of Giza</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.url }}/images/IMG_4218.JPG" alt="canyon" style="width:100%">
+  <figcaption>Grand Canyon National Park</figcaption>
+</figure>
+
 <h2>Woodworking Projects</h2>
 
 <figure>
