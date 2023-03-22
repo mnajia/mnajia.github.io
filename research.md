@@ -16,7 +16,7 @@ In my PhD research, I studied multiple layers of gene regulation that underly dy
 
 ### Live-cell transcriptomics via virus-like particles
 
-<div style="width: 25%; float: left;"> 
+<div style="width: 225px; float: left;"> 
 <video width="200" height="200" autoplay muted>
   <source src="{{ site.url }}/images/jin_2011_jvirology.mp4" type="video/mp4">
 </video>
@@ -32,18 +32,13 @@ Measuring the transcriptional states of living systems provides insight into the
 
 ### iPS-derived lymphoid cells
 
-* [**Boosting Object Proposals: From Pascal to COCO**](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/)<br>
-Webpage to showcase the results of our publication. It involved a decent amount of JavaScript, D3.js, PHP, and MySQL.
+<img src="{{ site.url }}/images/iPS_EHT_protocol.png" style="width:100%"/>
 
-* [**DAVIS Dataset**](https://graphics.ethz.ch/~perazzif/davis/index.html)<br>
-Webpage to showcase the benchmark results of DAVIS and browse results. Again: JavaScript, D3.js, PHP, and MySQL.
+The first hematopoietic stem cells (HSCs) are generated from hemogenic endothelium during a developmental process termed, endothelial-to-hematopoietic transition (EHT). Intense scientific investigation has been devoted to understanding the molecular mechanisms of HSC ontogeny in an effort to recapitulate embryonic development to <i>in vitro</i> derive engraftable HSCs from induced pluripotent stem (iPSCs). In an effort to identify molecular deficiencies in current iPS differentiation protocols, we interrogated the transcriptional and chromatin transitions during EHT. We profiled hemogenic endothelium and hematopoietic progenitor populations using RNA-Seq and ATAC-Seq to discern the transcriptional and accessible chromatin landscapes over a multi-day time course of <i>in vitro</i> EHT. Joint analysis of chromatin and transcriptional data identified molecular discrepencies of iPSC-derived hematopoietic progenitors compared to <i>bona fide</i> HSCs. Infered regulatory networks  nominated genes for modulation during iPSC differentiation. We experimentally identified chromatin modifiers that when manipulated during EHT enhance commitment toward lymphoid lineages, particularly T cells. Taken together, this study provides a rich molecular resource of a human model of EHT, and further advances the ability to generate therapuetically-relevant hematopoietic cell types from iPSCs for adoptive cell therapies. 
 
 
 
-
-
-
-<br />
+<br /><br />
 <b><em>About the Cover Image</em></b>
 <br />
-<em>Induced pluripotent stem cells were engineered to express a protein fused to GFP and stained with DAPI. The fusion protein primarily localizes to the nucleus of cells.</em>
+<em>Human HT1080 cells were engineered to express GFP and additional genetic machinery to enable the cells to "self-report" their transcriptional states in virus-like particles.</em>
