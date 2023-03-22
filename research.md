@@ -14,28 +14,19 @@ image:
 In my PhD research, I studied multiple layers of gene regulation that underly dynamic cellular processes, and sought to modulate these processes to direct differentiation to cell types of interest. My research spans building new technologies to basic science inquiry, as well as multiple fields, including hematopoiesis, synthetic biology, bioinformatics, and chromatin biology.  
 
 
+### Live-cell transcriptomics via virus-like particles
 
-### Transposable elements
+<video width="200" height="200" autoplay muted>
+  <source src="{{ site.url }}/images/jin_2011_jvirology.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>Measuring the transcriptional states of living systems provides insight into their biological status and associated molecular mechanisms. However, non-destructive methods capable of retrieving and monitoring transcriptome-wide RNA information at multiple time points from the same living cells have yet to be developed. We overcame this limitation with a genetically encodable technology by repurposing the Gag polyprotein from murine leukemia virus (MLV) to create engineered virus-like particles (VLPs) that can export RNA molecules from cells in a process we term cellular “self-reporting”. VLP-captured RNAs were highly reflective of the host cellular transcriptome across a diverse array of human cell lines, in addition to pluripotent stem cells and primary patient fibroblasts. Furthermore, we engineered Gag with RNA-binding domains to tailor the repertoire of RNAs that are packaged in VLPs and to enrich for specific RNA transcripts. Pseudotyping VLPs with epitope-tagged VSV-G proteins enabled multiplexed self-reporting from cellular co-cultures, where each cell type was marked by a unique epitope and immunoprecipitation of each epitope-tagged VLP could deconvolve each cell type's VLPs from the cellular media. Finally, we demonstrated that live-cell self-reported transcriptome measurements faithfully detect temporal changes in gene expression programs during induced pluripotent stem cell differentiation to mesoderm progenitors. Self-reporting of transcriptional states with engineered VLPs enables tractable, live-cell transcriptome-wide measurements from the same biological samples over time, and we envision this technology to facilitate further investigation into temporal cellular dynamics. 
 
-* [**Convolutional Oriented Boundaries**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
-State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
 
-* [**Multiscale Combinatorial Grouping**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
-Method for producing segmented object proposals, state of the art pre deep learning. Given an image, it computes around 5000 proposals of segmented objects in less than 30 seconds on a single thread. From our CVPR 2014 and TPAMI 2016 papers.
+### Transposable element regulation of hematopoietic lineage decisions
 
-* [**SEISM: Supervised Evaluation of Image Segmentation Methods**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
-Toolbox to benchmark image segmentation methods, including our newly-proposed objects and parts measure. From our PAMI 2015 and CVPR 2013 papers.
+<img src="{{ site.url }}/images/te_gene_regulation.png" align="left" style="margin: 0px 10px 10px 0px;" style="width:50%"/>The hematopoietic system is a paradigm of stem cell biology and the focus of decades of inquiry into the molecular wiring that governs differentiation. However, the role of transposable elements (TEs) remains an underexplored layer of genetic regulation. Accumulating evidence suggests TEs were co-opted as cis-regulatory elements that shape gene regulatory networks. Moreover, TEs are regulated by epigenetic machinery and thus potently contribute to local chromatin environments. We hypothesized that TEs impart a regulatory architecture through genetic enhancers and chromatin states to guide human hematopoietic fate decisions. We generated a comprehensive atlas of enhancer-gene regulation using the Activity-by-Contact (ABC) model on all major human hematopoietic cell types amounting to 3.7 million enhancer-gene predictions. TEs were disproportionately enriched in ABC enhancers of lymphoid cells compared to other lineages, harboring lineage-specific TF motifs. TE subfamilies were transcriptionally upregulated during lymphoid differentiation, whereas the expression of TE repressive machinery, such as H3K9 methyltransferases and NuRD complex members attenuated, implying that epigenetic regulation of TEs is concomitant with lymphoid fate specification. We systematically interrogated genes involved in TE regulation within umbilical cord blood HSPCs and assessed lymphoid lineage commitment, identifying chromatin modifiers that when chemically or genetically perturbed resulted in a robust lineage shift from T to NK cells during <i>in vitro</i> differentiation. Genetic knockouts induced distinct NK progenitor states, identified by single cell RNA/ATAC-Seq, and derepressed TEs harbored NK-relevant TF motifs, suggesting that TE derepression facilitates NK lineage choice. Characterization of the resultant NK cells revealed distinct properties, exhibiting either proinflammatory state characterized by upregulation of interferon pathway genes, or an enhanced cytotoxic CD16+ phenotype. This work underscores the regulatory contributions of TEs and chromatin machinery on human hematopoietic lineage decisions and highlights how modulating TEs could be leveraged for hematopoietic cell engineering.
 
-* [**Supervised Assessment of Segmentation Hierarchies**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
-Toolbox to find the best cuts in a hierarchy of regions using combinatorial optimization and solved by CPLEX. From our ECCV 2012 paper.
- 
-### Live-cell transcriptomics
 
-* [**Solving Sudokus like a Pro**](http://jponttuset.github.io/solving-sudokus-like-a-pro-1/)<br>
-Code to capture a camera feed, locate a Sudoku grid, find and recognize the numbers, solve it in real time, and overlay the results.
-
-* [**Web Scraping**](http://jponttuset.github.io/deep-learning-scraping/)<br>
-Demo to answer whether deep learning is indeed in fashion in computer vision. The code scrapes the paper titles of latest vision conferences from the web and computes the percentage of *deep-learning-related* papers.
 
 ### iPS-derived lymphoid cells
 
@@ -44,6 +35,10 @@ Webpage to showcase the results of our publication. It involved a decent amount 
 
 * [**DAVIS Dataset**](https://graphics.ethz.ch/~perazzif/davis/index.html)<br>
 Webpage to showcase the benchmark results of DAVIS and browse results. Again: JavaScript, D3.js, PHP, and MySQL.
+
+
+
+
 
 
 <br />
