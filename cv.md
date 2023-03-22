@@ -25,8 +25,13 @@ GPA: 3.93 / 4.00<br>
 * [**SEISM: Supervised Evaluation of Image Segmentation Methods**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
 Toolbox to benchmark image segmentation methods, including our newly-proposed objects and parts measure. From our PAMI 2015 and CVPR 2013 papers.
 
-* [**Supervised Assessment of Segmentation Hierarchies**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
-Toolbox to find the best cuts in a hierarchy of regions using combinatorial optimization and solved by CPLEX. From our ECCV 2012 paper.
+* **Amgen Scholars Program, University of California Berkeley**, Berkeley, CA (May – Aug 2014) <br>
+Amgen Scholar (PI: Michael Eisen, PhD; Mentor: Steven Kuntz, PhD) <br>
+Project: temperature-dependent embryogenesis of wild strains of Drosophila melanogaster
+
+
+
+
 
 
 
