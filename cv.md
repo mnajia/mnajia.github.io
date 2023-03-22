@@ -86,6 +86,26 @@ Taught a weekly recitation class, held weekly office hours and graded problem se
     <td>49</td>
     <td>4.90 / 5.00</td>
   </tr>
+  <tr>
+    <td>Spring 2013</td>
+    <td>51</td>
+    <td>4.98 / 5.00</td>
+  </tr>
+  <tr>
+    <td>Fall 2013</td>
+    <td>48</td>
+    <td>4.88 / 5.00</td>
+  </tr>
+  <tr>
+    <td>Spring 2014</td>
+    <td>32</td>
+    <td>4.90 / 5.00</td>
+  </tr>
+  <tr>
+    <td>Fall 2014</td>
+    <td>45</td>
+    <td>4.90 / 5.00</td>
+  </tr>
 </table>
 
 
