@@ -66,6 +66,7 @@ figcaption {
 </figure>
 
 <h2>Cooking</h2>
+I like experimenting in the kitchen, especially with recipes involving dough
 
 <figure>
   <img src="{{ site.url }}/images/cooking/IMG_7940.jpg" alt="ciabatta1" style="width:50%"><img src="{{ site.url }}/images/cooking/IMG_8005.jpg" alt="ciabatta2" style="width:50%">

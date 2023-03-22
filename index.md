@@ -7,18 +7,14 @@ image:
   feature: homebanner.gif
 ---
 
-I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a>.
+As a bioengineer, I am focused on building technologies to investigate the molecular logic of cellular decision-making and to understand how hematopoietic stem cells differentiate into various immune cells. I am passionate about pursuing science for the betterment of patients and human health. To learn more about my research, visit <a href="{{ site.url }}/research" target="_blank">here</a>.<br />
 
-<br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group 
-and with the startup <a href="https://gestoos.com" target="_blank">Fezoo</a>.
+I earned my PhD in Medical Engineering & Medical Physics from MIT as a student in the <a href="https://hst.mit.edu/" target="_blank">Harvard-MIT Health Sciences & Technology</a> program. I was advised by Drs. <a href="https://daley.hms.harvard.edu/" target="_blank">George Daley</a> and <a href="https://blainey.mit.edu/" target="_blank">Paul Blainey</a>, which melded expertise in hematopoiesis, stem cell biology, genomics and synthetic biology. I am currently a Research Fellow at <a href="https://www.childrenshospital.org/" target="_blank">Boston Children's Hospital</a> and the <a href="https://www.broadinstitute.org/" target="_blank">Broad Institute</a>. <br />
 
-<br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
+I am a native of Boston, Massachusetts and <a href="{{ site.url }}/personal" target="_blank">outside the lab</a> I enjoy sailing, woodworking, and getting creative in the kitchen. <br />
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br />
 <b><em>About the Cover Image</em></b>
 <br />
 <em>Induced pluripotent stem cells were engineered to express a protein fused to GFP and stained with DAPI. The fusion protein primarily localizes to the nucleus of cells.</em>
