@@ -11,7 +11,7 @@ As a bioengineer, I am focused on building technologies to investigate the molec
 
 I earned my PhD in Medical Engineering & Medical Physics from MIT as a student in the <a href="https://hst.mit.edu/" target="_blank">Harvard-MIT Health Sciences & Technology</a> program. I was advised by Drs. <a href="https://daley.hms.harvard.edu/" target="_blank">George Daley</a> and <a href="https://blainey.mit.edu/" target="_blank">Paul Blainey</a>, which melded expertise in hematopoiesis, stem cell biology, genomics and synthetic biology. I am currently a Research Fellow at <a href="https://www.childrenshospital.org/" target="_blank">Boston Children's Hospital</a> and the <a href="https://www.broadinstitute.org/" target="_blank">Broad Institute</a>. <br />
 
-I am a native of Boston, Massachusetts and <a href="{{ site.url }}/personal" target="_blank">outside the lab</a> I enjoy sailing, woodworking, and getting creative in the kitchen. <br />
+I am a native of Boston, Massachusetts and <a href="{{ site.url }}/personal" target="_blank">outside the lab</a> I enjoy sailing, woodworking, traveling the world to experience new cultures, and getting creative in the kitchen. <br />
 
 
 <br /><br />
