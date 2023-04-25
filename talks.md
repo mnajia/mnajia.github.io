@@ -11,6 +11,9 @@ image:
 
 ### Conference Talks
 
+*  Transposable elements regulate natural killer cell development<br>
+<i>NHLBI Progenitor Cell Research and Translation Meeting</i>, Bethesda, MD (March 2023).
+
 *  Transposable element regulation of hematopoietic lineage decisions<br>
 <i>Gene Regulation Keystone Meeting</i>, Santa Fe, NM (June 2022).
 
@@ -79,6 +82,9 @@ image:
 
 
 ### Posters
+
+* <b>Mohamad Ali Najia</b>, Deepak Jha, Cheng Zhang, Alaa Ali, Arianna Markel, Hu Li, Rizwan Romee, Paul Blainey, George Daley<br>
+<b>Transposable elements regulation of hematopoietic lineage decisions.</b> <i>NHLBI Progenitor Cell Research and Translation Meeting</i>, Bethesda, MD (March 2023).
 
 * <b>Mohamad Ali Najia</b>, Deepak Jha, Cheng Zhang, Alaa Ali, Arianna Markel, Hu Li, Rizwan Romee, Paul Blainey, George Daley<br>
 <b>Transposable element regulation of hematopoietic lineage decisions.</b> <i>Gene Regulation Keystone Meeting</i>, Santa Fe, NM (June 2022).
