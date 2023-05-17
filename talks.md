@@ -59,6 +59,9 @@ image:
 * Influencing Encapsulated Stem Cell Factor Secretion Through Hypoxic Conditioning<br>
 <i>Society of Engineering Science 49th Technical Meeting</i>, Atlanta, GA (October 2012).
 
+* Sustainable Development and Volunteerism in Developing Countries<br>
+<i>Global Health and Humanitarian Summit</i>, Emory University, Atlanta, GA (April 2010).
+
 
 ### Invited Seminars
 

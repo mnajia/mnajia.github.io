@@ -8,7 +8,7 @@ comments: false
 
 ### Education
 
-* <b>Massachusetts Institute of Technology</b>, Cambridge, MA (2015-2023)<br>
+* <b>Massachusetts Institute of Technology</b>, Cambridge, MA (2015-2022)<br>
 Harvard-MIT Division of Health Sciences & Technology<br>
 PhD in Medical Engineering and Medical Physics<br>
 National Science Foundation Graduate Research Fellow<br>
@@ -44,7 +44,7 @@ Project: alginate encapsulation of embryonic stem cells to guide differentiation
 
 * <i>Research Intern</i>, <b>Center for Integration of Medicine and Innovative Technology</b>, Boston, MA (Jun – Aug 2010) <br>
 PI: Julian Goldman, MD <br>
-Project: worked on the Medical Device Plug-and-Play (MD PnP) project to pair a ventilator with x-ray modalities, and synchronize contraction of a patient’s diaphragm with the capture of x-ray images
+Project: worked on the Medical Device Plug-and-Play (MD PnP) project to pair a ventilator with imaging modalities, and synchronize the contraction of a patient’s diaphragm with the capture of x-ray images
 
 
 ### Professional Experience
