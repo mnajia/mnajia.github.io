@@ -92,7 +92,7 @@ image:
 
 ### Posters
 
-* <b>Mohamad Ali Najia</b>, Jacob Borrajo, Anna Le, FuNien Tsai, Jeremy Huang, Linda Grioith, George Daley, Paul Blainey<br>
+* <b>Mohamad Ali Najia</b>, Jacob Borrajo, Anna Le, FuNien Tsai, Jeremy Huang, Linda Griffith, George Daley, Paul Blainey<br>
 <b>Live-cell transcriptomics with engineered virus-like particles.</b> <i>Broad Institute 20th Annual Retreat</i>, Boston, MA (December 2024).
 
 * <b>Mohamad Ali Najia</b>, Alaa Ali, Luca Hensch, Yunliang Zhao, Rizwan Romee, Paul Blainey, George Daley<br>
