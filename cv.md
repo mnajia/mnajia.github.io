@@ -49,6 +49,10 @@ Project: worked on the Medical Device Plug-and-Play (MD PnP) project to pair a v
 
 ### Professional Experience
 
+* <i>Venture Fellow</i>, <b>MPM BioImpact Capital</b>, Boston, MA (June 2023 – August 2023) <br>
+• Performed technical due diligence, landscaping and indication prioritization for two therapeutic areas of interest to MPM Capital <br>
+• Worked with Partners and Principals on a creating a multiple myeloma and monoclonal gammopathies therapeutics NewCo; prepared pitch decks; presented to the Investment Team; proposed clinical development strategies and evaluated commercial potential
+
 * <i>President</i>, <b>GapSummit 2019, Broad Institute</b>, Cambridge, MA (July 2017 – Sept 2019) <br>
 • Led an international team of 60+ people to organize an intergenerational biotech summit at the Broad Institute of MIT & Harvard from June 16-20, 2019 focused on discussing pressing challenges facing the global biotech community, and to catalyze innovation to address these challenges <br>
 • Raised $160,000 from corporate sponsors to fund the conference and provided $15,000 in travel awards for students to attend the conference <br>
@@ -120,29 +124,33 @@ Organized and lead meetings with US Congressional Representatives & Senators to 
 
 ### Honors & Awards
 
+* Top Poster Award, Technology Development Category, Broad Institute Retreat (December 2024)
+* Inductee to Fifty 50 2023 Cohort, Fifty Years VC (September 2023)
 * Top Poster Award, NHLBI Progenitor Cell Research and Translation Meeting (March 2023)
 * Second Place, Merck Innovation Cup (July 2022)
-* ISSCR Abstract Merit Award (June 2022)
-* Keystone Symposia Scholarship (December 2021)
-* Synthego Genome Engineer Innovation Grant Winner (April 2019)
+* Abstract Merit Award, International Society for Stem Cell Research Annual Meeting (June 2022)
+* Keystone Symposia Scholarship, Transposable Elements Meeting (December 2021)
+* Genome Engineer Innovation Grant Winner, Synthego (April 2019)
 * First Place, MIT Global Startup Workshop Business Plan Competition (March 2018)
-* NIH Single Cell Analysis Program, “Follow That Cell” Challenge Winner (June 2017)
+* National Competition Winner, NIH Single Cell Analysis Program “Follow That Cell” Challenge (June 2017)
 * Second Place, Bay Area Global Health Innovation Challenge (May 2017)
 * IMES Award, IDEA2 Global Final Pitch Competition (January 2017)
 * Second Place, MIT Convergence Idea Challenge (June 2016)
-* Ford Foundation Pre-doctoral Fellowship Honorable Mention (April 2016)
-* NSF Fellowship, 14th International Summer School on Biocomplexity (June 2015)
-* Second Place, InVenture Prize (April 2015)
-* National Science Foundation Graduate Research Fellowship (March 2015)
-* Georgia Tech College of Engineering Undergraduate Research Award (March 2015)
+* Harvard Medical School Translational Medicine Program (June 2016)
+* National Science Foundation Graduate Research Fellowship (June 2016)
+* Honorable Mention, Ford Foundation Pre-doctoral Fellowship (April 2016)
+* Competition Winner, NIBIB DEBUT Challenge (August 2015)
+* Travel Award Winner, 14th International Summer School on Biocomplexity & Biodesign (June 2015)
+* Second Place, Georgia Institute of Technology InVenture Prize (April 2015)
+* Undergraduate Research Award, Georgia Institute of Technology (March 2015)
 * Best Overall Design Project, Georgia Tech Capstone Expo (December 2014)
 * TEDMED Frontline Scholarship (September 2014)
 * Amgen Scholar, University of California Berkeley (Summer 2014)
 * Invited Speaker, 5th US-Turkey Advanced Study Institute on Global Healthcare (June 2014)
 * Barry M. Goldwater Scholarship (April 2014)
-* NSF Fellowship, 12th International Summer School on Biocomplexity (June 2013)
-* Petit Undergraduate Research Scholarship (2012)
-* President’s Undergraduate Research Award (2011, 2012)
+* Travel Award Winner, 12th International Summer School on Biocomplexity & Biodesign (June 2013)
+* Petit Undergraduate Research Scholarship, Georgia Institute of Technology (2012)
+* President’s Undergraduate Research Award, Georgia Institute of Technology (2011, 2012)
 * Brooks Automation Scholarship (2010, 2011)
 
 
