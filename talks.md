@@ -96,7 +96,7 @@ image:
 <b>Live-cell transcriptomics with engineered virus-like particles.</b> <i>Broad Institute 20th Annual Retreat</i>, Boston, MA (December 2024).
 
 * <b>Mohamad Ali Najia</b>, Alaa Ali, Luca Hensch, Yunliang Zhao, Rizwan Romee, Paul Blainey, George Daley<br>
-<b>Enhancing the antitumor eYicacy iPSC-derived NK and T cells against solid tumors by tunable degradation of TRIM28.</b> <i>New York Stem Cell Foundation Annual Meeting</i>, New York, NY (October 2023).
+<b>Enhancing the anti-tumor efficacy of iPSC-derived NK and T cells against solid tumors by tunable degradation of TRIM28.</b> <i>New York Stem Cell Foundation Annual Meeting</i>, New York, NY (October 2023).
 
 * <b>Mohamad Ali Najia</b>, Deepak Jha, Cheng Zhang, Alaa Ali, Arianna Markel, Hu Li, Rizwan Romee, Paul Blainey, George Daley<br>
 <b>Transposable elements regulation of hematopoietic lineage decisions.</b> <i>NHLBI Progenitor Cell Research and Translation Meeting</i>, Bethesda, MD (March 2023).
